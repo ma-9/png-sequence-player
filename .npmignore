@@ -1,0 +1,17 @@
+# Ignore build artifacts
+dist
+
+# Ignore test files
+__tests__
+*.spec.ts
+*.test.ts
+
+# Ignore IDE settings and configs
+.vscode
+.idea
+
+# Ignore documentation
+README.md
+
+# Ignore environment files
+.env
